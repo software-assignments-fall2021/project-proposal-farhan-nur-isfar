@@ -1,7 +1,7 @@
 Isfar Oshir, Farhan Mashud, Mohammed Uddin
 
 ### Project title
-Event Planning System
+EventEdge
 
 ### What and why?
 
