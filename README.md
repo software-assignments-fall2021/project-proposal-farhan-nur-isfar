@@ -8,11 +8,6 @@ EventEdge
 In recent times, event planning can get convoluted and people can get confused as to when is what or what they have to bring. There's been several times when I have tried to plan events with friends, where some may be lost as to what the exact precise details are and there can endless times of tagging people in the group chat. So, this project will incorporate not just messaging but other accessory features as well such as creating the event right then and there in the group chat and the event would be create on Google Calendar. Another feature can be dedicating tasks to certain group mates, so no one has room to mess up.
 
 ### For whom?
-
-Do not make software for imaginary users who do not exist - you must have real people as your initial end-users.  Tell us who they are.  For example, is it for a particular type of business, mass consumer, a campus office, a professor, or friends or family, or ... people just like you.
-
-Understanding who your end-users are, and ideally speaking with some along the way, will help you refine your designs to be suitable for your audience, and understand whether you have succeeded at the end or not.
-
 This software can be used by anyone who wants to plan an event of any kind, such as parties, sporting events, etc. It is basically for friend circles.
 
 ### How?
